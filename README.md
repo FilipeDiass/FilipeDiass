@@ -7,7 +7,7 @@ Olá! Meu nome é Filipe Dias! 🙂
 
 ### Redes Sociais
 <div id="badges">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-filipe-5524ba1bb/">
+  <a href="https://www.linkedin.com/in/filipediass/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
